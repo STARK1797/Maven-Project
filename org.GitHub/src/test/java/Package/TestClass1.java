@@ -28,7 +28,22 @@ public class TestClass1 {
 		public void TC05() {
 			System.out.println("TC05");
 		}
-		
+		@Test
+		public void TC06() {
+			System.out.println("TC06");
+		}
+		@Test
+		public void TC07() {
+			System.out.println("TC07");
+		}
+		@Test
+		public void TC08() {
+			System.out.println("TC08");
+		}
+		@Test
+		public void TC09() {
+			System.out.println("TC09");
+		}
 	}
 
 }
